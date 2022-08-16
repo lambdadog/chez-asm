@@ -9,5 +9,5 @@ exactly one argument.
 
 I suspect it may be possible to perform cross-compilation *somehow*,
 but since I haven't committed the time to figuring it out yet, only
-`ta6le` examples are compiled since that's the architecture of the
+`{t,}a6le` examples are compiled since that's the architecture of the
 machine I'm working on.
